@@ -209,3 +209,36 @@ div.wrapper-content aside.profile h1 {
   color: #1f2226;
   margin-top: 10px;
 }
+
+div.wrapper-content aside.profile span {
+  font-size: 14px;
+  color: #1f2226;
+}
+
+div.wrapper-content aside.profile p {
+  font-size: 14px;
+  color: #1f2226;
+  margin-top: 15px; 
+}
+
+div.wrapper-content aside.profile ul {
+  margin-top: 20px;
+  list-style: none;
+}
+
+div.wrapper-content aside.profile li {
+  font-size: 14px;
+  color: #657786;
+
+  display: flex;
+  align-items: center;
+  margin-top: 5px;
+}
+
+div.wrapper-content aside.profile li:first-child {
+  margin: 0;
+}
+
+div.wrapper-content aside.profile li img {
+  margin-right: 10px;
+}
