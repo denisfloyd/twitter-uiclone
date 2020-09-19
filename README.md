@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="./.github/twitter.png" alt="Twitter Logo" width="150"/>
+   <img src=".github/twitter.png" alt="Twitter Logo"/>
 </p>
 
 <p align="center">	
@@ -52,12 +52,11 @@
 # Just open the index.html from project root in your browser :)
 $ or open then project in Visual Studio Code (the best) and download "Live Server" extension.
 $ then click the option bellow:
-
+```
 <p align="center">
   <img src=".github/live_server.png">
 </p>
 
-```
 Go to http://localhost:3000/ to see the result.
 
 # :tada: Contributing
