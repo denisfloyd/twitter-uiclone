@@ -4,16 +4,16 @@
 
 <p align="center">	
    <a href="https://linkedin.com/in/denis-ladeira-814365115/">
-      <img alt="Denis Mendonça Ladeira" src="https://img.shields.io/badge/-DenisLadeira-lightblue?style=flat&logo=Linkedin&logoColor=white" />
+      <img alt="Denis Mendonça Ladeira" src="https://img.shields.io/badge/-DenisLadeira-blue?style=flat&logo=Linkedin&logoColor=white" />
    </a>
    
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/denismend/twitter-uiclone?color=lightblue">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/denismend/twitter-uiclone?color=blue">
 
   <a href="https://github.com/denismend/nlw-02-proffy/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/denismend/twitter-uiclone?color=lightblue">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/denismend/twitter-uiclone?color=blue">
   </a> 
   
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-lightblue">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-blue">
 </p>
 
 <p align="center">
