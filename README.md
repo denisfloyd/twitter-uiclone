@@ -1,5 +1,5 @@
 <p align="center">
-   <img src=".github/twitter.png" alt="Twitter Logo"/>
+   <img src=".github/twitter.png" alt="Twitter Logo" width="180"/>
 </p>
 
 <p align="center">	
@@ -17,8 +17,9 @@
 </p>
 
 <p align="center">
-   :rocket: Static Web page from Twitter dashboard using Flexbox</p>
-
+   :rocket: Static Web page from Twitter dashboard using Flexbox
+</p>
+  
 <div align="center">
   <sub>Twitter UiClone. Built with ❤︎ by
     <a href="https://github.com/denismend">Denis Ladeira</a> and
@@ -50,14 +51,13 @@
 ### 💻 Run Project
 ```
 # Just open the index.html from project root in your browser :)
+
 $ or open then project in Visual Studio Code (the best) and download "Live Server" extension.
-$ then click the option bellow:
+$ then click the option below:
 ```
 <p align="center">
   <img src=".github/live_server.png">
 </p>
-
-Go to http://localhost:3000/ to see the result.
 
 # :tada: Contributing
 
