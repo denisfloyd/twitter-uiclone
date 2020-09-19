@@ -99,7 +99,7 @@ header#main-header div.side button {
 }
 
 div.banner {
-  height: 350px;
+  height: 300px;
   width: 100%;
   background: #3bb9e3;
 
@@ -304,13 +304,13 @@ div.wrapper-content .timeline {
 
 div.wrapper-content .timeline nav {
   border-bottom: 1px solid #e6ecf0;
-  padding: 7px 15px;
+  padding: 10px 15px;
 }
 
 div.wrapper-content .timeline nav a {
   text-decoration: none;
   color: #3bb9e3;
-  font-size: 18px;
+  font-size: 16px;
   font-weight: bold;
   margin-left: 20px;
 }
