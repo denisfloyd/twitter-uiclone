@@ -52,7 +52,7 @@
 ```
 # Just open the index.html from project root in your browser :)
 
-$ or open then project in Visual Studio Code (the best) and download "Live Server" extension.
+$ or open the project in Visual Studio Code and download "Live Server" extension.
 $ then click the option below:
 ```
 <p align="center">
